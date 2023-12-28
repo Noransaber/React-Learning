@@ -8,5 +8,5 @@ serves as practical experience in applying fundamental concepts of React, involv
 2. Rendering them
 3. Understanding the usage of props.
 
-- ![image](https://github.com/Noransaber/React-Learning/assets/112859455/b5282f8d-eec5-4a3d-bc1b-d68159f1bd5d)
+![image](https://github.com/Noransaber/React-Learning/assets/112859455/b5282f8d-eec5-4a3d-bc1b-d68159f1bd5d)
 
