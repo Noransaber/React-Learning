@@ -1,0 +1,60 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Nav bar styling */
+.nav {
+    background-color: #F55A5A;
+    max-width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav .nav-title {
+    color: white
+
+}
+/* Card style */
+.card-container {
+    display: flex;
+}
+.card-container .left-side, .right-side  {
+    padding: 20px; 
+
+}
+.card-container .left-side img {
+    width: 125px;
+    height: 168px;
+}
+.card-container .right-side .country{
+    color: #2B283A;
+}
+.card-container .right-side a{
+    color: #918E9B;
+    text-decoration: none;
+    cursor: pointer;
+    border-bottom: 1px solid #918E9B;
+    margin-left: 7px;
+}
+
+.card-container .right-side .place {
+    color: #2B283A;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 9px;
+}
+.card-container .right-side .time {
+    font-weight: bold;
+    font-size: 18px;
+    color: #2B283A;
+}
+.card-container .right-side .info {
+    width: 400px;
+    color: #2B283A;
+}
